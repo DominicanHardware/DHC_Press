@@ -1,3 +1,3 @@
-# DominicanHardwareCommunity
+# DHC_Press
 
-A community of hardware developers and hobbiest located on Dominican Republic.
+Images, logos and pictures for press usage.
